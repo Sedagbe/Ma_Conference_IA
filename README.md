@@ -4,7 +4,7 @@ Ce dépôt contient le support textuel et les ressources de ma conférence porta
 
 ## 📺 Replay de la conférence
 Vous pouvez visionner la démonstration complète et mon intervention via le lien ci-dessous :
-👉 **[Lien vers la vidéo Meet / Démo](https://drive.google.com/file/d/1YW7pBU_tiR8795ZSSuccJYIUq9_Feugk/view?usp=sharing)**
+👉 **[Lien vers la vidéo Meet ](https://drive.google.com/file/d/1YW7pBU_tiR8795ZSSuccJYIUq9_Feugk/view?usp=sharing)**
 
 ---
 
