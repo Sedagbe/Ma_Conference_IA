@@ -1,6 +1,6 @@
-# 🎤 Conférence : L'IA au service de l'impact des ONG
+# 🎤 Conférence : L'IA au service de l'impact de l'ONG GRABE BENIN
 
-Ce dépôt contient le support textuel et les ressources de ma conférence TEDx portant sur l'utilisation de l'Intelligence Artificielle générative comme levier d'efficacité pour les organisations non gouvernementales (ONG).
+Ce dépôt contient le support textuel et les ressources de ma conférence portant sur l'utilisation de l'Intelligence Artificielle générative comme levier d'efficacité pour L'ONG GRABE Bénin.
 
 ## 📺 Replay de la conférence
 Vous pouvez visionner la démonstration complète et mon intervention via le lien ci-dessous :
