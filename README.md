@@ -1,4 +1,4 @@
-# 🎤 Conférence : L'IA au service de l'impact de l'ONG GRABE BENIN
+#  Conférence : L'IA au service de l'impact de l'ONG GRABE BENIN
 
 Ce dépôt contient le support textuel et les ressources de ma conférence portant sur l'utilisation de l'Intelligence Artificielle générative comme levier d'efficacité pour L'ONG GRABE Bénin.
 
